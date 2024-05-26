@@ -1,0 +1,79 @@
+[  
+  {
+    "key": "cardLogitechMouseGamerGPro",
+    "image": "/mouse.png",
+    "description": "Mouse Gamer Sem Fio Logitech G Pro X Superlight 2 com Lightspeed, 32000 DPI, Sensor Hero 2, com Bateria Recarregável, Preto",
+    "previousPrice": "R $1.529,48",
+    "currentprice": "R$ 814,90",
+    "isLogitech": true
+  },
+  {
+    "key": "cardLogitechMouseGamerG502",
+    "image": "/mouse2.png",
+    "description": "Mouse Gamer Sem Fio Logitech G502 LIGHTSPEED RGB LIGHTSYNC, Ajuste Peso, 11 Botões, Recarregável, Compatível POWERPLAY",
+    "previousPrice": "R$ 705,87",
+    "currentprice": "R$ 499,99",
+    "isLogitech": true
+  },
+  {
+    "key": "cardLogitechHeadset",
+    "image": "/headset.png",
+    "description": "Headset Gamer Sem Fio Logitech G Astro A30, Drivers 40mm, Bluetooth, PS e PC, Azul Escuro",
+    "previousPrice": "R$ 1.999,99",
+    "currentprice": "R$ 1.499,99",
+    "isLogitech": true
+  },
+  {
+    "key": "cardLogitechCaixaDeSom",
+    "image": "/caixadesom.png",
+    "description": "Caixa de som Logitech G560 com RGB LIGHTSYNC, Sistema 2.1 e Conexão Bluetooth, USB ou 3,5mm",
+    "previousPrice": "R$ 1.777,77",
+    "currentprice": "R$ 999,90",
+    "isLogitech": true
+  },
+  {
+    "key": "cardNormalPlacaDeVideoRx600",
+    "image": "/placavideo.png",
+    "description": "Placa de Vídeo RX 6600 CLD 8G ASRock AMD Radeon, 8GB, GDDR6",
+    "previousPrice": "R$ 2.267,47",
+    "currentprice": "R$ 1.349,99",
+    "discount": "com 20% de desconto no PIX",
+    "isLogitech": false
+  },
+  {
+    "key": "cardNormalPlacaDeVideoRx670Xt",
+    "image": "/placavideo2.png",
+    "description": "Placa de Vídeo RX 6750XT Gaming XFX Graphics Card AMD Radeon, 12GB GDDR6, Ray tracing, Fidelity FX",
+    "previousPrice": "R$ 4.229,29",
+    "currentprice": "R$ 2.999,99",
+    "discount": "com 20% de desconto no PIX",
+    "isLogitech": false
+  },
+  {
+    "key": "cardNormalPlacaDeVideoRtx4060",
+    "image": "/placavideo3.png",
+    "description": "Placa de Vídeo RTX 4060 AERO OC Gigabyte NVIDIA GeForce, 8GB GDDR6, RGB, DLSS, Ray Tracing, Branco",
+    "previousPrice": "R$ 3.599,99",
+    "currentprice": "R$ 2.499,99",
+    "discount": "com 20% de desconto no PIX",
+    "isLogitech": false
+  },
+  {
+    "key": "cardNormalPlacaDeVideoGtx1650",
+    "image": "/placavideo4.png",
+    "description": "Placa de Vídeo GTX 1650 D6 Ventus XS OCV3 MSI NVIDIA GeForce, 4GB GDDR6, G- Sync",
+    "previousPrice": "R$ 947,36",
+    "currentprice": "R$ 799,99",
+    "discount": "com 20% de desconto no PIX",
+    "isLogitech": false
+  },
+  {
+    "key": "cardNormalPlacaDeVideoGigabyte",
+    "image": "/placavideo5.png",
+    "description": "Placa de Vídeo Gigabyte Radeon RX 6600 EAGLE AMD, 8GB GDDR6, Preto",
+    "previousPrice": "2.477,94",
+    "currentprice": "R$ 1.399,99",
+    "discount": "com 20% de desconto no PIX",
+    "isLogitech": false
+  }
+]
